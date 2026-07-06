@@ -1,0 +1,22 @@
+﻿Company AI Usage Policy
+
+Version: 1.0
+
+#Purpose#
+This policy defines the approved use of Artificial Intelligence (AI) systems within the organization.
+
+Requirements
+
+1. Confidential information must not be submitted to public AI services.
+
+2. Customer payment card information, passwords, API keys, tokens, encryption keys and regulated personal information must never be submitted to public AI platforms.
+
+3. Only approved enterprise AI platforms may process confidential information.
+
+4. AI-generated content must be reviewed and approved by a human before business use.
+
+5. Prompt injection testing must be completed before production deployment.
+
+6. AI system activity should be logged for security monitoring and investigations.
+
+7. All AI applications must follow the Secure AI Development Standard.

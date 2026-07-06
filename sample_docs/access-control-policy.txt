@@ -1,0 +1,21 @@
+﻿Company Access Control Policy
+
+Version: 1.0
+
+#Purpose#
+
+This policy defines user access requirements.
+
+Requirements
+
+1. Access must follow the principle of least privilege.
+
+2. Multi-factor Authentication (MFA) is mandatory for privileged accounts.
+
+3. Administrative access requires manager approval.
+
+4. Shared administrator accounts are prohibited.
+
+5. User access reviews must be completed quarterly.
+
+6. Dormant accounts must be disabled after 90 days.

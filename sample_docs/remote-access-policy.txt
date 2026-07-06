@@ -1,0 +1,17 @@
+Remote Access Policy
+
+Version: 1.0
+
+Requirements
+
+1. Corporate VPN is required for remote access.
+
+2. MFA is mandatory for remote connections.
+
+3. Only managed devices may connect to corporate systems.
+
+4. Endpoint protection must be enabled.
+
+5. Public Wi-Fi should only be used when connected through the corporate VPN.
+
+6. Remote sessions must automatically lock after 15 minutes of inactivity.

@@ -1,0 +1,17 @@
+Third-Party AI Services Policy
+
+Version: 1.0
+
+Requirements
+
+1. Third-party AI providers must complete a security assessment.
+
+2. Vendor risk assessments must be approved before onboarding.
+
+3. Data residency requirements must be documented.
+
+4. Customer data must only be processed by approved providers.
+
+5. AI providers must comply with applicable privacy regulations.
+
+6. Contracts must define data retention and deletion requirements.

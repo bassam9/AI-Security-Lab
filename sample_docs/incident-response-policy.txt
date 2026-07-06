@@ -1,0 +1,21 @@
+﻿Company Incident Response Policy
+
+Version: 1.0
+
+#Purpose#
+
+This policy defines how security incidents must be reported and managed.
+
+Requirements
+
+1. All suspected security incidents must be reported to the Security Operations Centre (SOC).
+
+2. Critical incidents must be escalated within 30 minutes.
+
+3. Evidence must be preserved before remediation activities begin.
+
+4. Customer data incidents require Security, Privacy and Legal review.
+
+5. Root cause analysis must be completed after containment.
+
+6. Lessons learned must be documented following major incidents.

@@ -1,0 +1,26 @@
+Company Data Classification Policy
+
+Version: 1.0
+
+Information Classification
+
+Public
+
+Information approved for public release.
+
+
+Internal
+
+Information intended for employees only.
+
+
+Confidential
+
+Business-sensitive information requiring restricted access.
+
+
+Restricted
+
+Highly sensitive information including customer data, financial records and security credentials.
+
+Restricted information must only be accessed by authorized personnel.

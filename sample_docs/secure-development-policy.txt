@@ -1,0 +1,17 @@
+Company Secure Development Policy
+
+Version: 1.0
+
+Requirements
+
+1. Security must be integrated throughout the SDLC.
+
+2. Source code must undergo peer review.
+
+3. Static Application Security Testing (SAST) is mandatory.
+
+4. Dependency scanning must be completed before release.
+
+5. Secrets must never be stored in source code repositories.
+
+6. Critical vulnerabilities must be remediated before production deployment.
