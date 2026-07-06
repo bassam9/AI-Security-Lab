@@ -1,4 +1,6 @@
 # AI-Security-Lab
+Secure RAG • AI Security • Prompt Guardrails • RBAC
+
 Hands-on AI Security Lab demonstrating Secure RAG, LLM security, prompt guardrails, RBAC, authentication, and enterprise AI security architecture.
 ## Overview
 
